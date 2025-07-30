@@ -6,7 +6,7 @@ import Projects from "./Projects"
 
 export default function Home(){
     return(
-        <div className="font-three flex flex-col bg-white dark:bg-slate-950 shadow-xl dark:shadow-gray-800 py-6 px-5 rounded-2xl gap-9 md:gap-14 md:py-9 md:px-16 md:w-[85%] md:my-12">
+        <div className="font-three flex flex-col bg-white dark:bg-slate-950 shadow-xl dark:shadow-gray-800 py-6 px-5 md:rounded-2xl gap-9 md:gap-14 md:py-9 md:px-16 md:w-[85%] md:my-12">
             <Header />
             <AboutMe />
             <Projects />
