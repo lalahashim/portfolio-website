@@ -1,0 +1,66 @@
+[
+    {
+        "photo": "/projects/luminous.png",
+        "name": "Random Photo Generator",
+        "description": "Discover beautiful random photos in your preferred size and color with just one click.",
+        "tools": ["HTML", "CSS", "JavaScript", "EJS"],
+        "link": "https://random-photo.onrender.com/",
+        "dateCreated": "2025-03-30"
+    },
+    {
+        "photo": "/projects/dice.png",
+        "name": "Dice",
+        "description": "Dice, names, and luck — a multiplayer game that picks the winner instantly.",
+        "tools": ["HTML", "CSS", "JavaScript", "EJS"],
+        "link": "https://dice-2ojc.onrender.com/",
+        "dateCreated": "2025-04-13"
+    },
+    {
+        "photo": "/projects/to-do-app.png",
+        "name": "To Do App",
+        "description": "A simple to-do app that lets you add, edit, and delete your daily tasks.",
+        "tools": ["HTML", "CSS", "JavaScript"],
+        "link": "https://lalahashim.github.io/day7-todo-app/",
+        "dateCreated": "2025-04-30"
+    },   
+    {
+        "photo": "/projects/photo-generator.png",
+        "name": "Photo Generator",
+        "description": "Create a random photo gallery and fully control it — add, delete, resize, or change images.",
+        "tools": ["HTML", "CSS", "JavaScript"],
+        "link": "https://lalahashim.github.io/photo-generator/",
+        "dateCreated": "2025-05-08"
+    },
+    {
+        "photo": "/projects/weather-app.png",
+        "name": "Weather App",
+        "description": "A simple and elegant weather forecast app: just enter any city, and get the latest weather data powered by the Open-Meteo API.",
+        "tools": ["HTML", "CSS", "JavaScript", "API"],
+        "link": "https://lalahashim.github.io/weather-app/",
+        "dateCreated": "2025-05-15"
+    },
+    {
+        "photo": "/projects/uni-project.png",
+        "name": "The Baku Experience",
+        "description": "A concept tourism website built for a university assignment, blending design and functionality to simulate a real travel service.",
+        "tools": ["HTML", "CSS", "JavaScript"],
+        "link": "https://lalahashim.github.io/the-baku-experience/",
+        "dateCreated": "2025-06-05"
+    },
+    {
+        "photo": "/projects/finance-tracker.png",
+        "name": "Finance Tracker",
+        "description": "Your personal finance buddy: log expenses and income, see your balance in real time.",
+        "tools": ["React", "Vite", "TailwindCSS", "JavaScript"],
+        "link": "https://finance-tracker-whzl.onrender.com/",
+        "dateCreated": "2025-07-10"
+    },
+    {
+        "photo": "/projects/learn-italian.png",
+        "name": "Learn Italian",
+        "description": "Your personal Italian tutor online — explore words, grammar, and challenge yourself with quizzes.",
+        "tools": ["React", "Vite", "TailwindCSS", "JavaScript"],
+        "link": "https://learn-italian-ib08.onrender.com/",
+        "dateCreated": "2025-07-19"
+    }
+]
