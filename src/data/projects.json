@@ -67,7 +67,7 @@
         "photo": "/projects/luminous.png",
         "name": "Random Photo Generator",
         "description": "Discover beautiful random photos in your preferred size and color with just one click.",
-        "tools": ["HTML", "CSS", "JavaScript", "EJS"],
+        "tools": ["HTML", "CSS", "JavaScript", "EJS", "API"],
         "link": "https://random-photo.onrender.com/",
         "dateCreated": "30 Mar 2025"
     }
