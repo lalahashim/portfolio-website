@@ -41,7 +41,7 @@
     },
     {
         "photo": "/projects/photo-generator.png",
-        "name": "Photo Generator",
+        "name": "Photo Gallery",
         "description": "Create a random photo gallery and fully control it — add, delete, resize, or change images.",
         "tools": ["HTML", "CSS", "JavaScript"],
         "link": "https://lalahashim.github.io/photo-generator/",
