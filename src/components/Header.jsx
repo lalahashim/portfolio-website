@@ -40,7 +40,7 @@ export default function Header() {
       <h1 className="text-3xl md:text-6xl">Lala Hashimova</h1>
       <h2 className="text-xl md:text-3xl">frontend developer</h2>
       <a
-        href="/LalaHashim_cv.pdf"
+        href="/LalaHashimCV.pdf"
         target="_blank"
         rel="noopener noreferrer"
         className="rounded-lg bg-amber-300 dark:bg-pink-700 hover:shadow-lg dark:hover:shadow-gray-800 cursor-points dark:cursor-dark-points text-lg mt-1 py-0.5 px-2 md:py-1 md:px-2.5 md:mt-3 md:text-xl"
@@ -50,3 +50,4 @@ export default function Header() {
     </div>
   );
 }
+
