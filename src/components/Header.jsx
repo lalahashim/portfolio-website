@@ -38,7 +38,7 @@ export default function Header() {
         )}
       </button>
       <h1 className="text-3xl md:text-6xl">Lala Hashimova</h1>
-      <h2 className="text-xl md:text-3xl">ai student</h2>
+      <h2 className="text-xl md:text-3xl">ML engineer</h2>
       <a
         href="/LalaHashimCV.pdf"
         target="_blank"
