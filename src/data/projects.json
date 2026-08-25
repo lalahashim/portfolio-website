@@ -12,7 +12,7 @@
         "name": "Learn Italian",
         "description": "A website to learn Italian online — explore words and grammar.",
         "tools": ["React", "Vite", "TailwindCSS", "JavaScript"],
-        "link": "https://learn-italian-ib08.onrender.com/",
+        "link": "https://learn-italian-henna.vercel.app/",
         "dateCreated": "19 jul 2025"
     },
     {
@@ -20,7 +20,7 @@
         "name": "Finance Tracker",
         "description": "Finance buddy: log expenses and income to see your balance in real time.",
         "tools": ["React", "Vite", "TailwindCSS", "JavaScript"],
-        "link": "https://finance-tracker-whzl.onrender.com/",
+        "link": "https://finance-tracker-theta-jet.vercel.app/",
         "dateCreated": "10 Jul 2025"
     },
     {
